@@ -61,7 +61,6 @@ runs
 *.egg-info
 __pycache__
 venv
-*.cpp
 
 # model
 *.pkl
