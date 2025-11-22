@@ -115,7 +115,6 @@ log
 *.navmesh
 *.sur
 *.h5
-*.urdf
 
 data_gleam/*
 venv/*
